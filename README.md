@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Lurewisso<br>👀 I’m interested in in exploring new frontiers!<br>🌱 I'm currently developing my programming skills in Swift!<br>💞️ I’m looking to collaborate on creative projects!<br>📫 How to reach me: just send a message!<br>😄 Pronouns: whatever makes you happy!<br>⚡ Fun fact: I'm a language mastermind! 😊
+👋 Hi, I’m @Lurewisso<br>👀 I’m interested in exploring new frontiers!<br>🌱 I'm currently developing my programming skills in Swift!<br>💞️ I’m looking to collaborate on creative projects!<br>📫 How to reach me: just send a message!<br>😄 Pronouns: whatever makes you happy!<br>⚡ Fun fact: I'm a language mastermind! 😊
 
 
 ## 🌐 Socials:
